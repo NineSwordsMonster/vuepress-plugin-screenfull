@@ -1,0 +1,23 @@
+{
+  "name": "@nines/vuepress-plugin-screenfull",
+  "version": "0.0.1",
+  "description": "screenfull for vuepress plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NineSwordsMonster/vuepress-plugin-screenfull.git"
+  },
+  "keywords": [
+    "screenfull",
+    "vuepress"
+  ],
+  "author": "wangjia_1919@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NineSwordsMonster/vuepress-plugin-screenfull/issues"
+  },
+  "homepage": "https://github.com/NineSwordsMonster/vuepress-plugin-screenfull#readme"
+}
