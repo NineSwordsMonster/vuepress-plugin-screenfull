@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/NineSwordsMonster/vuepress-plugin-screenfull/issues"
   },
-  "homepage": "https://github.com/NineSwordsMonster/vuepress-plugin-screenfull#readme"
+  "homepage": "https://github.com/NineSwordsMonster/vuepress-plugin-screenfull#readme",
+  "dependencies": {
+    "screenfull": "4.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-plugin-vue": "^5.2.3"
+  }
 }
