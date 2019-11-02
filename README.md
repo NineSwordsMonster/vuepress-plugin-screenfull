@@ -7,7 +7,7 @@
 
 ## Details
 
-> Screenfull plugin for vuepress-theme-reco or other vuepress theme.
+> Screenfull plugin for vuepress
 
 |使用位置|值|
 |-|-|
