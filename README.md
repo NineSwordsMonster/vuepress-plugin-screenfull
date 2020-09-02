@@ -11,9 +11,9 @@
 
 |使用位置|值|
 |-|-|
-|plugin name|@nines/vuepress-plugin-screenfull|
+|plugin name|@nine-theme/vuepress-plugin-screenfull|
 |component name|Screenfull（主题开发时使用）|
 
 ```sh
-npm install @nines/vuepress-plugin-screenfull
+npm install @nine-theme/vuepress-plugin-screenfull
 ```
