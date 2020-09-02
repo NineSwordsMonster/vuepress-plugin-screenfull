@@ -1,4 +1,4 @@
-# vuepress-plugin-screenfull
+# @nine-theme/vuepress-plugin-screenfull
 ![GitHub last commit](https://img.shields.io/github/last-commit/nine-theme/vuepress-plugin-screenfull) 
 ![npm (scoped)](https://img.shields.io/npm/v/@nine-theme/vuepress-plugin-screenfull) 
 ![npm](https://img.shields.io/npm/dt/@nine-theme/vuepress-plugin-screenfull) 
