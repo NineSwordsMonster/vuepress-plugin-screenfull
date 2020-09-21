@@ -24,9 +24,6 @@
     "screenfull": "4.2.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
-    "eslint": "^6.4.0",
-    "eslint-plugin-vue": "^5.2.3",
     "vuepress": "^1.5.4"
   }
 }
