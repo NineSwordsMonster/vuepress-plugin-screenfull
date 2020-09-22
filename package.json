@@ -1,5 +1,5 @@
 {
-  "name": "@nines/vuepress-plugin-screenfull",
+  "name": "@nine-theme/vuepress-plugin-screenfull",
   "version": "0.0.3",
   "description": "screenfull for vuepress plugin",
   "main": "index.js",
