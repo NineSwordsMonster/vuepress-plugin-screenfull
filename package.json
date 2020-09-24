@@ -1,6 +1,6 @@
 {
   "name": "@nine-theme/vuepress-plugin-screenfull",
-  "version": "0.0.4-alpha.0",
+  "version": "0.0.4-alpha.5",
   "description": "screenfull for vuepress plugin",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,9 @@
   },
   "devDependencies": {
     "vuepress": "^1.5.4"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "4613eeb20a0e1e38cebfa4c2b1fc5f7d20572bb3"
 }
